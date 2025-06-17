@@ -1,2 +1,2 @@
-# Affluence_jewels
-jewelry e-commerce website
+# affluence_jewels
+ ecommerce website
